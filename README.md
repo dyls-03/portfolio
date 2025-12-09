@@ -1,5 +1,5 @@
 [![Issues][issues-shield]][issues-url]
-[![Release][releases-shield]][releases-url]
+[![Version][version-shield]][version-url]
 [![Repo Watchers][watchers-shield]][watchers-url]
 [![Followers][followers-shield]][followers-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -89,8 +89,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 [watchers-url]: https://img.shields.io/github/watchers/dyls-03/portfolio
 [followers-shield]: https://img.shields.io/github/followers/dyls-03.svg?style=for-the-badge
 [followers-url]: https://img.shields.io/github/followers/dyls-03
-[releases-shield]: https://img.shields.io/github/release/dyls-03/portfolio.svg?style=for-the-badge
-[releases-url]: https://img.shields.io/github/v/release/dyls-03/portfolio
+[version-shield]: https://img.shields.io/github/package-json/v/dyls-03/portfolio.svg?style=for-the-badge
+[version-url]: https://img.shields.io/github/package-json/v/dyls-03/portfolio
 [website-shield]: https://img.shields.io/website?url=https%3A%2F%2Fportfolio-tau-lovat-52.vercel.app%2F&style=for-the-badge
 [website-url]: https://portfolio-tau-lovat-52.vercel.app/
 
