@@ -3,6 +3,7 @@
 [![Repo Watchers][watchers-shield]][watchers-url]
 [![Followers][followers-shield]][followers-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Website][website-shield]][website-url]
 
 
 
@@ -81,14 +82,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-
 [watchers-shield]: https://img.shields.io/github/watchers/dyls-03/portfolio.svg?style=for-the-badge
 [watchers-url]: https://img.shields.io/github/watchers/dyls-03/portfolio
-
 [followers-shield]: https://img.shields.io/github/followers/dyls-03.svg?style=for-the-badge
 [followers-url]: https://img.shields.io/github/followers/dyls-03
-
 [releases-shield]: https://img.shields.io/github/release/dyls-03/portfolio.svg?style=for-the-badge
 [releases-url]: https://img.shields.io/github/v/release/dyls-03/portfolio
-
+[website-shield]: https://img.shields.io/website?url=https%3A%2F%2Fportfolio-tau-lovat-52.vercel.app%2F&style=for-the-badge
+[website-url]: https://portfolio-tau-lovat-52.vercel.app/
 
