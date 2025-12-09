@@ -1,5 +1,32 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Repo Watchers][watchers-shield]][watchers-url]
+[![Followers][followers-shield]][followers-url]
+
+
+
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+    </li>
+  </ol>
+</details>
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -9,6 +36,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 
+<!-- GETTING STARTED -->
 ## Getting Started
 
 First, run the development server:
@@ -52,3 +80,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+
+[watchers-shield]: https://img.shields.io/github/watchers/dyls-03/portfolio.svg?style=for-the-badge
+[watchers-url]: https://img.shields.io/github/watchers/dyls-03/portfolio
+
+[followers-shield]: https://img.shields.io/github/followers/dyls-03.svg?style=for-the-badge
+[followers-url]: https://img.shields.io/github/followers/dyls-03
+
+[github-followers]: https://img.shields.io/github/followers/dyls-03
+[github-watchers]: https://img.shields.io/github/watchers/dyls-03/portfolio
+
+
