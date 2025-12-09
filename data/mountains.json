@@ -1,0 +1,57 @@
+[
+    {
+        "mountain": "Snowdon",
+        "region": "Wales, UK",
+        "countryCode": "gb-wls",
+        "route": "Crib Goch",
+        "heightM": 1085,
+        "date": "2024-09-27",
+        "ascentType": "Scramble",
+        "company": "Solo",
+        "notes": "Mixed weather. Sunny and clear, windy, hail and cloudy."
+    },
+    {
+        "mountain": "Cairn Gorm",
+        "region": "Scotland, UK",
+        "countryCode": "gb-sct",
+        "route": "-",
+        "heightM": 1245,
+        "date": "2025-02-02",
+        "ascentType": "Winter Walking",
+        "company": "Guided Winter Course",
+        "notes": "Snow. Crampons and ice axe utilised."
+    },
+    {
+        "mountain": "Moel Siabod",
+        "region": "Wales, UK",
+        "countryCode": "gb-wls",
+        "route": "-",
+        "heightM": 872,
+        "date": "2025-02-15",
+        "ascentType": "Scramble",
+        "company": "Group - LSMC",
+        "notes": "Light snow. Not enough snow for crampons or ice axes, however we still took and played around with them." 
+    },
+    {
+        "mountain": "Scafell Pike",
+        "region": "England, UK",
+        "countryCode": "gb-eng",
+        "route": "-",
+        "heightM": 978,
+        "date": "2025-11-18",
+        "ascentType": "Hike",
+        "company": "Solo",
+        "notes": "Snow at the top, sumitted in the dark with low vis. Headtorch was essential for descent, not really a scramble but darkness was a vibe." 
+    },
+    {
+        "mountain": "Tryfan",
+        "region": "Wales, UK",
+        "countryCode": "gb-wls",
+        "route": "-",
+        "heightM": 917,
+        "date": "2025-12-06",
+        "ascentType": "Scramble",
+        "company": "Group - LSMC",
+        "notes": "Miserable weather. Rainy and 50+ mph winds at the summit. Very wet rock making the scramble more technical." 
+    }
+  ]
