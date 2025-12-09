@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <section className="space-y-6">
-      <h1 className="text-4xl font-bold">Hey, I&apos;m Dylan.</h1>
+      <h1 className="text-4xl font-bold">Hello, I&apos;m Dylan.</h1>
       <p className="text-slate-300">
         I&apos;m a developer who likes building things with TypeScript, React and
         messing around with robots and AI.
