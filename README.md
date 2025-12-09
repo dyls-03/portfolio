@@ -1,7 +1,8 @@
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Release][releases-shield]][releases-url]
 [![Repo Watchers][watchers-shield]][watchers-url]
 [![Followers][followers-shield]][followers-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -87,7 +88,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 [followers-shield]: https://img.shields.io/github/followers/dyls-03.svg?style=for-the-badge
 [followers-url]: https://img.shields.io/github/followers/dyls-03
 
-[github-followers]: https://img.shields.io/github/followers/dyls-03
-[github-watchers]: https://img.shields.io/github/watchers/dyls-03/portfolio
+[releases-shield]: https://img.shields.io/github/release/dyls-03/portfolio.svg?style=for-the-badge
+[releases-url]: https://img.shields.io/github/v/release/dyls-03/portfolio
 
 
