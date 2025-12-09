@@ -37,6 +37,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
+* [![TypeScript][TypeScript]][TypeScript-url]
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -82,6 +83,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[TypeScript]: https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=yellow
+[TypeScript-url]: https://www.typescriptlang.org/
 [watchers-shield]: https://img.shields.io/github/watchers/dyls-03/portfolio.svg?style=for-the-badge
 [watchers-url]: https://img.shields.io/github/watchers/dyls-03/portfolio
 [followers-shield]: https://img.shields.io/github/followers/dyls-03.svg?style=for-the-badge
