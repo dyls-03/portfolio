@@ -4,7 +4,9 @@ export default function Home() {
   const uptime = getAgeText();
 
   return (
-    <section className="px-6 md:px-10 lg:px-16 py-20 flex flex-col md:flex-row items-start gap-6 md:gap-12">      
+    <section className="py-20">    
+        <div className="mx-auto max-w-7xl px-6 lg:px-11 xl:px-1 flex flex-col lg:flex-row lg:items-start lg:justify-between gap-16">
+
       {/* LEFT SIDE */}
       <div className="md:flex-[1.2] space-y-4">
 
@@ -17,7 +19,7 @@ export default function Home() {
 
       {/* RIGHT SIDE */}
       <div className="md:flex-[0.8] flex md:justify-end justify-center">
-        <div className="bg-black/30 p-6 rounded-xl border border-slate-800 text-sm font-mono text-slate-300 max-w-[470px] w-full">
+        <div className="bg-black/30 p-5 rounded-xl border border-slate-800 text-sm font-mono text-slate-300 max-w-[470px] w-full">
           
           <div className="flex justify-between mb-3 whitespace-nowrap">
             <span className="text-orange-500 blinking">Uptime:</span>
@@ -43,7 +45,7 @@ export default function Home() {
 
         </div>
       </div>
-
+      </div>
     </section>
   );
 }
