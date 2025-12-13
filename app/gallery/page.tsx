@@ -1,37 +1,44 @@
+import Masonry from '@/components/Masonry';
+
 // src/app/projects/page.tsx
 export default function ProjectsPage() {
-    const projects = [
-      {
-        name: "Line-Following Robot",
-        tech: ["Python", "ZED Camera", "ROS (if you used it)"],
-        description: "Robot that follows a visual line with custom recovery logic.",
-        link: "#", // GitHub or demo link
-      },
-      // more projects
-    ];
+  
+  const items = [
+    {
+      id: "1",
+      img: "https://picsum.photos/id/1015/600/900?grayscale",
+      url: "https://example.com/one",
+      height: 400,
+    },
+    {
+      id: "2",
+      img: "https://picsum.photos/id/1011/600/750?grayscale",
+      url: "https://example.com/two",
+      height: 250,
+    },
+    {
+      id: "3",
+      img: "https://picsum.photos/id/1020/600/800?grayscale",
+      url: "https://example.com/three",
+      height: 600,
+    },
+    // ... more items
+];
   
     return (
       <section className="space-y-6">
         <h1 className="text-3xl font-semibold">Projects</h1>
-        <div className="grid gap-4 md:grid-cols-2">
-          {projects.map((project) => (
-            <article
-              key={project.name}
-              className="rounded-xl border border-slate-800 p-4"
-            >
-              <h2 className="text-xl font-medium">{project.name}</h2>
-              <p className="mt-2 text-sm text-slate-200">{project.description}</p>
-              <p className="mt-2 text-xs text-slate-400">
-                {project.tech.join(" • ")}
-              </p>
-              {project.link && (
-                <a href={project.link} className="mt-3 inline-block text-sm underline">
-                  View project
-                </a>
-              )}
-            </article>
-          ))}
-        </div>
+        <Masonry
+          items={items}
+          ease="power3.out"
+          duration={0.6}
+          stagger={0.05}
+          animateFrom="bottom"
+          scaleOnHover={true}
+          hoverScale={0.95}
+          blurToFocus={true}
+          colorShiftOnHover={true}
+        />
       </section>
     );
   }

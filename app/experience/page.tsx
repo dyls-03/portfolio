@@ -35,21 +35,21 @@ export default function ExperiencePage() {
 
   const experience = [
     {
-      role: "Software Developer Placement",
+      role: "Software Engineer Placement",
       company: "STFC",
-      period: "Jun 2023 - Sep 2023",
+      period: "Jul 2023 - Aug 2024",
       bullets: [
         "Built X using Y to support Z workflow.",
         "Improved <thing> by <result> through <approach>.",
         "Worked across <stack/tools> and collaborated via Git & code reviews.",
       ],
-      stack: ["TypeScript", "Next.js", "Docker"],
+      stack: ["Java", "Docker", ".NET", "Mockito"],
       href: "",
     },
     {
       role: "Software Developer Graduate Intern",
       company: "STFC",
-      period: "Jun 2024 - Sep 2024",
+      period: "Sep 2025 - Present",
       bullets: [
         "Built X using Y to support Z workflow.",
         "Improved <thing> by <result> through <approach>.",
@@ -65,7 +65,7 @@ export default function ExperiencePage() {
     {
       title: "BSc Computer Science",
       org: "Your University",
-      period: "2023 – Present",
+      period: "2021 - 2025",
       bullets: [
         "Modules: Advanced AI Systems, Robotics, Cybersecurity",
         "Coursework: CNNs, ROS, path planning, backpropagation",
@@ -90,16 +90,16 @@ export default function ExperiencePage() {
 
   const projects = [
     {
-      title: "Visual Line-Following Robot",
-      description: "Robot that follows a visual line using a ZED camera with custom recovery logic for sharp turns.",
+      title: "Project Tombstone",
+      description: "A cliff jumping map to find jumping spots.",
       href: "", // optional
-      tags: ["Python", "Computer Vision", "Robotics"],
+      tags: ["HTML", "JavaScript", "CSS"],
     },
     {
-      title: "Number Plate Recognition",
-      description: "Detects saved number plates and alerts when recognised (day + night capture on Raspberry Pi).",
+      title: "Death-O-Meter",
+      description: "Fun website with risk statistics for extreme sports.",
       href: "",
-      tags: ["Python", "Raspberry Pi", "OpenCV"],
+      tags: ["Next.js", "JavaScript"],
     },
     {
       title: "Unity C# Project",
@@ -205,6 +205,13 @@ export default function ExperiencePage() {
               </article>
             ))}
           </div>
+          <p>
+            Refer to my {" "}
+            <a href="https://www.linkedin.com/in/dylan-val-b4b491181" className="underline">
+              LinkedIn 
+            </a>{" "}
+            for more information.
+          </p>
         </section>
 
 
