@@ -169,7 +169,18 @@ export default function ExperiencePage() {
                     <h3 className="text-base sm:text-lg font-semibold">
                       {item.role} <span className="text-neutral-300">· {item.company}</span>
                     </h3>
-                    <p className="text-sm text-neutral-400">{item.period}</p>
+                    <p className="text-sm text-neutral-400">
+                      {item.period.includes("Present") ? (
+                        <>
+                          {item.period.replace("Present", "")}
+                          <span className=" text-orange-400 font-medium">
+                            Present
+                          </span>
+                        </>
+                      ) : (
+                        item.period
+                      )}
+                    </p>
                   </div>
 
                   {item.href ? (
