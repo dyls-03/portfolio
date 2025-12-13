@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lake-district-2025-10",
+    "date": "2025-10-02",
+    "level": "INFO",
+    "title": "Lake District Weekend",
+    "shortDescription": "A few days hiking, resetting, and taking photos. Great weather and some spicy climbs.",
+    "highlights": [
+      "Summited <peak name>",
+      "Sunrise ridge walk",
+      "Tested new camera setup"
+    ],
+    "longDescription": "Write a longer diary-style paragraph here. What happened, what you learned, funny moments, the vibe, what you'd do differently next time…",
+    "tags": ["travel", "mountains", "photos"]
+  },
+  {
+    "id": "stfc-start-2025-09",
+    "date": "2025-09-01",
+    "level": "SUCCESS",
+    "title": "Started at STFC",
+    "shortDescription": "Kicked off the new role and got environments + repos set up.",
+    "highlights": ["Onboarded", "Met the team", "First ticket shipped"],
+    "longDescription": "Excited to start my Software Developer Graduate Internship at STFC. Looking forward to contributing to some great projects and learning a lot along the way.",
+    "tags": ["career", "software"]
+  }
+]
