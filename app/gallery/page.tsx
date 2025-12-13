@@ -1,4 +1,13 @@
-import Masonry from '@/components/Masonry';
+//import Masonry from '@/components/Masonry';
+
+"use client";
+
+import dynamic from 'next/dynamic';
+
+const Masonry = dynamic(() => import('@/components/Masonry'), {
+  ssr: false,
+  loading: () => <div className="text-neutral-400">Loading gallery...</div>,
+});
 
 // src/app/projects/page.tsx
 export default function ProjectsPage() {
@@ -27,7 +36,7 @@ export default function ProjectsPage() {
   
     return (
       <section className="space-y-6">
-        <h1 className="text-3xl font-semibold">Projects</h1>
+        <h1 className="text-3xl font-semibold">Gallery</h1>
         <Masonry
           items={items}
           ease="power3.out"
