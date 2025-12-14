@@ -1,26 +1,36 @@
 [
   {
-    "id": "lake-district-2025-10",
-    "date": "2025-10-02",
+    "id": "wales-2025-12",
+    "date": "2025-12-05",
     "level": "INFO",
-    "title": "Lake District Weekend",
-    "shortDescription": "A few days hiking, resetting, and taking photos. Great weather and some spicy climbs.",
+    "title": "LSMC Christmas Wales Trip",
+    "shortDescription": "Tryfan scramble followed by annual Christmas dinner. Followed by some indoor climbing the next day.",
     "highlights": [
-      "Summited <peak name>",
-      "Sunrise ridge walk",
-      "Tested new camera setup"
+      "Summited Tryfan",
+      "Christmas Dinner",
+      "Miserable Weather"
     ],
-    "longDescription": "Write a longer diary-style paragraph here. What happened, what you learned, funny moments, the vibe, what you'd do differently next time…",
-    "tags": ["travel", "mountains", "photos"]
+    "longDescription": "The annual LSMC Christmas dinner trip to Wales. Went as an Ex-Member this year. We scrambled Tryfan in some pretty miserable weather, and were met with 50+ mph winds (which stole a cigarette, not mine) and no views at the summit. The next day was indoor climbing and then a 4 hour drive home.",
+    "tags": ["wales", "tryfan", "christmas"]
   },
   {
-    "id": "stfc-start-2025-09",
-    "date": "2025-09-01",
+    "id": "lake-district-2025-11",
+    "date": "2025-11-14",
     "level": "SUCCESS",
-    "title": "Started at STFC",
-    "shortDescription": "Kicked off the new role and got environments + repos set up.",
-    "highlights": ["Onboarded", "Met the team", "First ticket shipped"],
-    "longDescription": "Excited to start my Software Developer Graduate Internship at STFC. Looking forward to contributing to some great projects and learning a lot along the way.",
-    "tags": ["career", "software"]
+    "title": "LSMC Lake District Trip",
+    "shortDescription": "Trad climbing in the Lakes and a solo summit of Scafell Pike in the dark.",
+    "highlights": ["Trad Climbing", "Snow + Dark Scafell Pike Summit", "Failed Campsite"],
+    "longDescription": "Trad climbing and abseiling in the Lake District with LSMC. Attempted a HVS second (but dogged on the rope). Botched attempt at finding the right campsite which led to accidently driving through Hardknott Pass at night. Explored Keswick on Mon. Horrible weather Tues morning meant I had the whole of Scafell Pike to myself in the afternoon when I did a solo summit via Mickledore in the dark. Got met with at least a foot of snow at the summit. Dad lore achieved.",
+    "tags": ["trad", "lakes", "scafell", "snow"]
+  },
+  {
+    "id": "stfc-residential-2025-10",
+    "date": "2025-10-27",
+    "level": "ERROR",
+    "title": "STFC Graduate Residential",
+    "shortDescription": "Work residential at Nottingham Watersports Centre. Skills, team building and capsizing rafts.",
+    "highlights": ["Kayaking", "White Water Rafting", "Capsizing"],
+    "longDescription": "Weeklong work residential for STFC graduates at Nottingham Watersports Centre. Took part in various skills workshops during the first half of the week. In the second half, we did more practical activities including kayaking and white water rafting. The highlight was definitely capsizing the raft on the course. \n\nWe cleverly put all the heavy people on one side, causing us to tip over. I got trapped underneath the raft for a bit which was strangely peaceful until I got out as was met with chaos. Screams, whistles and bodies in the water are what awaited me. Some got rescued by throw ropes, others by teams in other rafts, until it was just me an another floating downstream in the rapids trying not to swallow the dirty Trent water. I was laughing the whole time, and was enjoying myself way too much, unlike my teammate who was fighting the rapids and lost a shoe in the process. We eventually grabbed onto another raft downstream (which I almost missed, thank you to the dude who extended his oar out to me), where the instructor of said raft attempted to haul me out of the water, but I pointed to my struggling teammate and told him to grab him first which he hastily did. I'm pretty sure he'd mistaken my giggling for shivering. I told him I was chilling and to leave me be if he needed to sort out anything else first, which I guess he did beceause he said \"okay\" and left me there. So there I was, hanging onto the front of the raft and shielding it from the oncoming rapids (which is quite ironic). I was honestly having the time of my life. Eventually I got hauled out and was met by the faces of horrified graduate rescuers with my shoe in hand and the biggest grin on my face. 10/10 would capsize again.",
+    "tags": ["work", "watersports", "capsizing"] 
   }
 ]
