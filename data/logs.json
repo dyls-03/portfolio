@@ -42,5 +42,26 @@
     "highlights": ["15m Cliff Jump"],
     "longDescription": "",
     "tags": ["cliff-jumping", "camping"]
+  },
+  {
+    "id": "austria-ski-2026-01",
+    "date": "2026-01-24",
+    "level": "WARN",
+    "title": "St Anton Ski Trip",
+    "shortDescription": "",
+    "highlights": [""],
+    "longDescription": "",
+    "tags": ["", ""]
+  },
+  {
+    "id": "wales-2026-02",
+    "date": "2026-02-06",
+    "level": "ERROR",
+    "title": "LSMC Annual Dinner",
+    "shortDescription": "",
+    "highlights": [""],
+    "longDescription": "",
+    "tags": ["", ""]
   }
+
 ]
