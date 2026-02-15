@@ -31,7 +31,7 @@
     "shortDescription": "Work residential at Nottingham Watersports Centre. Skills, team building and capsizing rafts.",
     "highlights": ["Kayaking", "White Water Rafting", "Capsizing"],
     "longDescription": "Weeklong work residential for STFC graduates at Nottingham Watersports Centre. Took part in various skills workshops during the first half of the week. In the second half, we did more practical activities including kayaking and white water rafting. The highlight was definitely capsizing the raft on the course. \n\nWe cleverly put all the heavy people on one side, causing us to tip over. I got trapped underneath the raft for a bit which was strangely peaceful until I got out as was met with chaos. Screams, whistles and bodies in the water are what awaited me. Some got rescued by throw ropes, others by teams in other rafts, until it was just me an another floating downstream in the rapids trying not to swallow the dirty Trent water. I was laughing the whole time, and was enjoying myself way too much, unlike my teammate who was fighting the rapids and lost a shoe in the process. We eventually grabbed onto another raft downstream (which I almost missed, thank you to the dude who extended his oar out to me), where the instructor of said raft attempted to haul me out of the water, but I pointed to my struggling teammate and told him to grab him first which he hastily did. I'm pretty sure he'd mistaken my giggling for shivering. I told him I was chilling and to leave me be if he needed to sort out anything else first, which I guess he did beceause he said \"okay\" and left me there. So there I was, hanging onto the front of the raft and shielding it from the oncoming rapids (which is quite ironic). I was honestly having the time of my life. Eventually I got hauled out and was met by the faces of horrified graduate rescuers with my shoe in hand and the biggest grin on my face. 10/10 would capsize again.",
-    "tags": ["work", "watersports", "capsizing"] 
+    "tags": ["work", "watersports", "capsize"] 
   },
   {
     "id": "dorset-2025-09",
@@ -40,7 +40,7 @@
     "title": "Dorset",
     "shortDescription": "Rained out climing and a sketchy shallow 15m cliff jump.",
     "highlights": ["15m Cliff Jump"],
-    "longDescription": "",
+    "longDescription": "Camped out in Dorset for a weekend of climbing with a little cliff jumping at the end. Started with some some insane night climbs on some sea cliffs (which we struggled to find in the dark lol). Did some climbing the next day but got rained out. On the final day did some cliff jumping at the Dancing Ledge and managed to grab myself a 15m jump which turned out to be pretty sketchy as the water was really shallow (which tends to happen when you jump when the tide is going out).",
     "tags": ["cliff-jumping", "camping"]
   },
   {
@@ -48,20 +48,20 @@
     "date": "2026-01-24",
     "level": "WARN",
     "title": "St Anton Ski Trip",
-    "shortDescription": "",
-    "highlights": [""],
-    "longDescription": "",
-    "tags": ["", ""]
+    "shortDescription": "Spent my birthday snowboarding in the Austrian Alps. 5 of us went, 3 of us made it back.",
+    "highlights": ["50mph Snowboard Speed", "Torn ACL"],
+    "longDescription": "Spent my 23rd birthday snowboarding in the Austrian Alps. Had a mix of blue bird days and snowy days. Lost one of us due to a torn acl, another passed out halfway through the trip, and another passed out in the queue for the plane back. Clearly snowboarders are just built different. St Anton is not built for snowboarders due to so many flats. One lesson I learnt from the torn acl was to send it like there is no tomorrow, Alex told me this is not what I should have picked up from that but it did result in hitting 50mph on the board.",
+    "tags": ["snowboard", "casualties", "snow"]
   },
   {
     "id": "wales-2026-02",
     "date": "2026-02-06",
     "level": "ERROR",
     "title": "LSMC Annual Dinner",
-    "shortDescription": "",
-    "highlights": [""],
-    "longDescription": "",
-    "tags": ["", ""]
+    "shortDescription": "Too rainy to climb outdoors, so we had to settle for some indoor climbs.",
+    "highlights": ["Fancy Dinner", "Ground Falls"],
+    "longDescription": "Had a nice fancy dinner with LSMC featuring a talk from James McHaffie. Too rainy on both days to climb outdoors, so we had to settle from some indoor climbing which resulted in a few close ground falls.",
+    "tags": ["wales", "climbing"]
   }
 
 ]
